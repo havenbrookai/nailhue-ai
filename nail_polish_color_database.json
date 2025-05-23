@@ -1,0 +1,92 @@
+[
+    {
+        "brand": "OPI",
+        "shade": "Bubble Bath",
+        "hex": "#F3E2DA",
+        "link": "https://opi.com/products/bubble-bath"
+    },
+    {
+        "brand": "OPI",
+        "shade": "Lincoln Park After Dark",
+        "hex": "#2C1B2F",
+        "link": "https://opi.com/products/lincoln-park-after-dark"
+    },
+    {
+        "brand": "OPI",
+        "shade": "Mod About You",
+        "hex": "#F3D3E2",
+        "link": "https://opi.com/products/mod-about-you"
+    },
+    {
+        "brand": "DND",
+        "shade": "Strawberry Parfait (822)",
+        "hex": "#F6A5C0",
+        "link": "https://dndgel.com/products/822-strawberry-parfait"
+    },
+    {
+        "brand": "DND",
+        "shade": "Cherry Blossom (513)",
+        "hex": "#F7B5C5",
+        "link": "https://dndgel.com/products/513-cherry-blossom"
+    },
+    {
+        "brand": "DND",
+        "shade": "Snow White (449)",
+        "hex": "#FFFFFF",
+        "link": "https://dndgel.com/products/449-snow-white"
+    },
+    {
+        "brand": "Essie",
+        "shade": "Ballet Slippers",
+        "hex": "#FBE4E9",
+        "link": "https://essie.com/nail-polish/enamel/ballet-slippers"
+    },
+    {
+        "brand": "Essie",
+        "shade": "Wicked",
+        "hex": "#3C0D1E",
+        "link": "https://essie.com/nail-polish/enamel/wicked"
+    },
+    {
+        "brand": "Essie",
+        "shade": "Fiji",
+        "hex": "#F9D9D9",
+        "link": "https://essie.com/nail-polish/enamel/fiji"
+    },
+    {
+        "brand": "Kiara Sky",
+        "shade": "Pink Passport",
+        "hex": "#EBA6B5",
+        "link": "https://kiarasky.com/pink-passport-gel-polish"
+    },
+    {
+        "brand": "Kiara Sky",
+        "shade": "Lilac You Mean It",
+        "hex": "#D6B8DC",
+        "link": "https://kiarasky.com/lilac-you-mean-it"
+    },
+    {
+        "brand": "Kiara Sky",
+        "shade": "Back to the Fuchsia",
+        "hex": "#D3205E",
+        "link": "https://kiarasky.com/back-to-the-fuchsia"
+    },
+    {
+        "brand": "Gelish",
+        "shade": "I'm Brighter Than You",
+        "hex": "#F95E64",
+        "link": "https://gelish.com/im-brighter-than-you"
+    },
+    {
+        "brand": "Gelish",
+        "shade": "Arctic Freeze",
+        "hex": "#FFFFFF",
+        "link": "https://gelish.com/arctic-freeze"
+    },
+    {
+        "brand": "Gelish",
+        "shade": "Mint Icing",
+        "hex": "#BCE3D3",
+        "link": "https://gelish.com/mint-icing"
+    }
+]
