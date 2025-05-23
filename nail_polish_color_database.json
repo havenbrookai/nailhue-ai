@@ -1,0 +1,38 @@
+[
+    {
+        "brand": "OPI",
+        "shade": "Mod About You",
+        "hex": "#F3D3E2",
+        "link": "https://www.opi.com/nail-colors/mod-about-you"
+    },
+    {
+        "brand": "DND",
+        "shade": "822 Strawberry Parfait",
+        "hex": "#F6A5C0",
+        "link": "https://www.dndgel.com/products/822-strawberry-parfait"
+    },
+    {
+        "brand": "Essie",
+        "shade": "Ballet Slippers",
+        "hex": "#FBE4E9",
+        "link": "https://www.essie.com/nail-polish/enamel/ballet-slippers"
+    },
+    {
+        "brand": "OPI",
+        "shade": "Bubble Bath",
+        "hex": "#F3E2DA",
+        "link": "https://www.opi.com/nail-colors/bubble-bath"
+    },
+    {
+        "brand": "DND",
+        "shade": "513 Cherry Blossom",
+        "hex": "#F7B5C5",
+        "link": "https://www.dndgel.com/products/513-cherry-blossom"
+    },
+    {
+        "brand": "Essie",
+        "shade": "Fiji",
+        "hex": "#F9D9D9",
+        "link": "https://www.essie.com/nail-polish/enamel/fiji"
+    }
+]
